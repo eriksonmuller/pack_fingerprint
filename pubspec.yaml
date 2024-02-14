@@ -1,0 +1,22 @@
+name: package_fingerprint
+description: "A new Flutter package project."
+version: 0.0.1
+#homepage:
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  local_auth: ^2.1.7
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
